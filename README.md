@@ -18,3 +18,5 @@ This is part of the below research paper
 ![Curriculum Learning](https://img.shields.io/badge/Curriculum-Learning-6D4C41?style=for-the-badge)
 ![Training](https://img.shields.io/badge/Training-Progressive-43A047?style=for-the-badge)
 
+Check the DEMO: https://youtu.be/Rb15YT2SWf4
+
